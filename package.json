@@ -1,5 +1,6 @@
 {
-	"author": "Nicholas-Kato",
+	"author" :"nicholas kato",
+	"email": "katnik256@gmail.com",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
